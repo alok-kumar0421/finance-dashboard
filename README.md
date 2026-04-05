@@ -1,5 +1,7 @@
 # Finance Dashboard
 
+🔗 Live Demo: https://finance-dashboard-alok.netlify.app/
+
 A simple finance dashboard built with React and Vite. It helps track income and expenses, visualize spending, and get a quick overview of financial activity.
 
 ## What It Does
@@ -38,27 +40,20 @@ A simple finance dashboard built with React and Vite. It helps track income and 
 
 Install dependencies:
 
-```bash
 npm install
-```
 
 Start the development server:
 
-```bash
 npm run dev
-```
 
-Then open the URL shown in the terminal (usually http://localhost:5173).
+Then open the URL shown in the terminal (http://localhost:5178).
 
 Build for production:
 
-```bash
 npm run build
-```
 
 ## Project Structure
 
-```
 src/
 ├── components/
 ├── context/
@@ -67,7 +62,6 @@ src/
 ├── pages/
 ├── App.jsx
 ├── main.jsx
-```
 
 ## How to Use
 
